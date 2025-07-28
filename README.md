@@ -1,16 +1,29 @@
-# Calculator App (Java)
+# Java Console-Based Calculator Application
 
-This is a simple calculator application developed in Java using Eclipse IDE.
+This is a simple console-based calculator application developed in Java using Eclipse IDE.  
+It performs basic arithmetic operations using standard input/output via the terminal.
 
-## Features
-- Addition, Subtraction, Multiplication, Division
-- Clear and Exit buttons
-- GUI using Swing (if applicable)
+## 🔧 Features
 
-## How to Run
-1. Open Eclipse
-2. Import the project
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Menu-driven options using `Scanner`
+- Loop-based interaction for multiple operations
+
+## 🛠️ Technologies Used
+
+- Java (Core)
+- Eclipse IDE
+- Scanner class (for user input)
+
+## 🚀 How to Run
+
+1. Download or clone the repository
+2. Open the project in Eclipse IDE
 3. Run the `Calculator.java` file
+4. Use number-based input to select and perform operations in the terminal
 
-## Author
-Lokendra Lodhi
+## 📌 Example Output
+
